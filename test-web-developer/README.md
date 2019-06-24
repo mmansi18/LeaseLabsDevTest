@@ -1,3 +1,8 @@
+![Screen shots of finished product](assets/images/screenshot.jpg)
+
+![Screen shots of finished product](assets/images/screenshot2.jpg)
+
+
 LeaseLabs Front-End Web Developer Test
 =============================
 
